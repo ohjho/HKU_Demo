@@ -32,7 +32,7 @@ $ jupyter notebook
 4. Have fun and go build some awesome projects! :surfer:
 
 ## Demo 1
-[link to Jupyter Notebook][]
+[link to Jupyter Notebook](demo1/MarketCap_vs_Sharpe.ipynb)
 
 ## Demo 2
-[link to Jupyter Notebooks][demo2/]
+[link to Jupyter Notebooks](demo2/)
